@@ -2,4 +2,6 @@ Linux commands I learned:
 - systemctl
 - journalctl
 - ssh
-
+- ip
+- ss
+- grep
